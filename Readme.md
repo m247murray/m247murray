@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Matthew, I'm a second year student at Queen's university for Mechatronics and Robotics Engineerin
+Hi, I'm Matthew, I'm a second year student at Queen's university for Mechatronics and Robotics Engineering
 
 ## 🌐 LinkedIn:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-murray24/) 
